@@ -26,7 +26,7 @@ Installation
 ### Manual installation
 
   1. Locate Sublime Text Package folder (Preferences > Browse Packages)
-  2. [Download me](https://nodeload.github.com/gusbemacbe/SublimeTextLanguageF/zip/master "Download manual package") and unzip my contents in this folder (Packages)
+  2. [Download me](https://nodeload.github.com/gusbemacbe/SublimeTextLanguagePortuguese/zip/master "Download manual package") and unzip my contents in this folder (Packages)
   3. Rename the folder in a more suitable name, ex: "Language - Portuguese - Português (manual)" (**warning:** there must not be any sub-folder in this folder, depending on your unzipping utility you might need to move files to the parent folder)
   4. Choose the language (View > Dictionary > Language - Portuguese - Português (manual) > pt_BR or pt_PT)
   5. Be sure spelling is activated (F6 / View > Spell Check)
@@ -74,5 +74,5 @@ Credits
 -------
 
 [Tito's - Dictionaries package](https://github.com/titoBouzout/Dictionaries "Tito's - Dictionaries package")
-
+[superbob's – Sublime Text Language French](https://github.com/superbob/SublimeTextLanguageFrench "superbob's – Sublime Text Language French"]
 [wbond - Sublime Package Control](https://sublime.wbond.net/ "wbond - Sublime Package Control")
