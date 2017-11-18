@@ -74,5 +74,7 @@ Credits
 -------
 
 [Tito's - Dictionaries package](https://github.com/titoBouzout/Dictionaries "Tito's - Dictionaries package")
-[superbob's – Sublime Text Language French](https://github.com/superbob/SublimeTextLanguageFrench "superbob's – Sublime Text Language French"]
+
+[superbob's – Sublime Text Language French](https://github.com/superbob/SublimeTextLanguageFrench "superbob's – Sublime Text Language French")
+
 [wbond - Sublime Package Control](https://sublime.wbond.net/ "wbond - Sublime Package Control")
