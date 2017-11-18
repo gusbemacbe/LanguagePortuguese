@@ -2,7 +2,7 @@
   "schema_version": "0.1",
   "packages": [
     {
-      "name": "Language - Portugues - Português",
+      "name": "Language - Portuguese - Português",
       "details": "https://github.com/gusbemacbe/SublimeTextLanguagePortuguese",
       "labels": ["spell check", "brasil", "brazil", "brazilian", "dicionário", "dictionnary", "português", "portuguese", "portugal"],
       "releases": [
