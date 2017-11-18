@@ -3,6 +3,6 @@
 	"version": "0.1",     
 	"sublime_text": "*",
 	"dependencies": [],      
-	"description": "Brazilian dn European Portuguese Spelling Language for Sublime Text 3 - Dicion\u00e1rio de Portugu\u00eas BR & PT (antes e depois AO 1990) para Sublime Text 3",      
+	"description": "Brazilian and European Portuguese Spelling Language for Sublime Text 3 - Dicion\u00e1rio de Portugu\u00eas BR & PT (antes e depois AO 1990) para Sublime Text 3",      
 	"url": "https://github.com/gusbemacbe/SublimeTextLanguagePortuguese"
 }
