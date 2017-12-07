@@ -64,7 +64,7 @@ Q&A
 
 **Q:** Can I contribute?
 
-**A:** If you want to add a newer version of the French dictionaries (fr_FR) you can submit a pull request. But I hope that I will be able to keep it up-to-date by myself.
+**A:** If you want to add a newer version of the Portuguese dictionaries (pt_BR) you can submit a pull request. But I hope that I will be able to keep it up-to-date by myself.
 
 **Q:** Whys is this text written in Portuguese?
 
